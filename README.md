@@ -16,8 +16,6 @@ Evaluation Metric: R² Score (Coefficient of Determination)
 
 Final Result: 88.7% (0.887)
 
-![Model Results](model_results.jpeg)
-
 Insights: The model shows a strong correlation between actual and predicted values, maintaining stability without overfitting.
 
 🇹🇷 [Türkçe] Proje Özeti
@@ -34,5 +32,7 @@ Model, hiperparametre optimizasyonu ve veri ön işleme aşamalarından sonra ş
 Değerlendirme Metriği: R² Skoru (Belirleme Katsayısı)
 
 Final Başarı Oranı: %88.7
+
+![Model Results](model_results.jpeg)
 
 Gözlem: Model, gerçek değerler ile tahmin edilen değerler arasında yüksek bir korelasyon sergilemektedir.
